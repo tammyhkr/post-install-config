@@ -92,7 +92,7 @@ Step 5: Configure Agents (Help Desk Professionals)
 - Repeat steps to add a second agent
 - Assign the second agent to the 'Support' department and 'View only' role under the 'Access' tab
 
-- 
+
 ![image](https://github.com/user-attachments/assets/bfbb3a92-817a-446b-8937-d7d4d27e99d6)
 
 ![image](https://github.com/user-attachments/assets/210b9078-e85c-4745-87dd-f2c87eea5606)
@@ -110,7 +110,7 @@ Step 6: Configure Users (Customers)
 - Switch to the Agent Panel (top right should say Admin Panel, which means you're in the 'Agent Panel') -> Users -> Add User
 - Enter a made up email address and name -> Add User
 - Go back to the 'User Directory' and add a second user by repeating the exact same steps
-- 
+
 
 ![image](https://github.com/user-attachments/assets/886a04bf-09b0-4511-83f7-b38928a98bc9)
 
